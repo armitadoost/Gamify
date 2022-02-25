@@ -4,7 +4,7 @@ Gamification is the integration of elements found in games – such as points an
 
 This project implements a simulator for an app that encourages the user to exercise more by awarding “stars” to the user for exercising.
 
-The Project Rules
+## The Project Rules
   - The user starts out with 0 health points, and 0 hedons
   - The user is always either running, carrying textbooks, or resting
   - Running gives 3 health points per minute for up to 180 minutes, and 1 health point per minute for every minute over 180 minutes that the user runs
